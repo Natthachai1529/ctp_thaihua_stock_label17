@@ -11,7 +11,7 @@
 
 {
     "name": "Product Label Layout",
-    "version": "16.0.1.0.1",
+    "version": "17.0.1.0.1",
     "description": "Product Label Layout",
     "summary": "Product Label Layout",
     "author": "Cybernetics+",
